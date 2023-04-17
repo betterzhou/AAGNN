@@ -18,6 +18,10 @@ Users can create datasets with injected anomalies by themselves. For details (e.
 + python main.py --dataset=BlogCatalog_anomaly --model=Atten_Aggregate --seed=1
 + python main.py --dataset=BlogCatalog_anomaly --seed=1
 
+### Evaluation:
+This code performs evaluation on the test set (e.g., 50% data). When comparing with unsupervised methods, users should keep the same data volume of the test set (i.e., either on all the nodes or the test set). 
+
+
 ## 3. Citation
 Please kindly cite the paper if you use the code or any resources in this repo:
 ```bib
