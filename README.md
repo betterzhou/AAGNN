@@ -1,7 +1,7 @@
 # Subtractive Aggregation for Attributed Network Anomaly Detection (AAGNN)
 
 ## 1.Introduction
-This repository contains code for paper "Subtractive Aggregation for Attributed Network Anomaly Detection" (CIKM'21).
+This repository contains code for paper "[Subtractive Aggregation for Attributed Network Anomaly Detection](https://dl.acm.org/doi/10.1145/3459637.3482195?cid=99659129036)" (CIKM'21).
 
 ## 2. Usage
 ### Requirements:
